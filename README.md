@@ -4,7 +4,7 @@ PDF available
 ___For this project, i remind you that is necessary to have libsfml.___
 ### Usage:
     make re && ./my_defender
-## What does my game looks like :
+## What does my game look like :
 
 ![1](https://user-images.githubusercontent.com/65111947/82337241-d6e64180-99eb-11ea-9d3f-8c1b90c3df62.png)
 
